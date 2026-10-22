@@ -1,0 +1,18 @@
+You are solving a programming contest problem.
+
+Read the entire problem carefully.
+
+Return:
+1. The algorithm and why it is correct.
+2. Time and space complexity.
+3. Complete compilable source code.
+4. Edge cases that could break the solution.
+5. Any assumptions you made.
+
+Requirements:
+- Follow the exact input/output specification.
+- Do not omit required implementation details.
+- Do not assume sample tests are sufficient.
+- State uncertainty instead of inventing constraints.
+
+Return the result in the agreed structured format.
